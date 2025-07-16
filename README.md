@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahbub Alom jony</h1>
-<h3 align="center">A passionate security researcher</h3>
+<h3 align="center">A Passionate Security Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jony369t&label=Profile%20views&color=0e75b6&style=flat" alt="jony369t" /> </p>
 
