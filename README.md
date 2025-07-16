@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **maj161715@gmail.com**
 
-- ⚡ Fun fact **Finding vulnerability to others website but leading full vulnerable life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
